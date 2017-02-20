@@ -16,10 +16,9 @@ class Leftbar extends React.Component {
             <div id="sidebar-wrapper" className="col-md-1">
 
                 <Menu>
-                    <MenuItem primaryText="Maps"/>
-                    <MenuItem primaryText="Books"/>
-                    <MenuItem primaryText="Flights"/>
-                    <MenuItem primaryText="Apps"/>
+                    <MenuItem primaryText="Home"/>
+                    <MenuItem primaryText="About us"/>
+                    <MenuItem primaryText="Contact us"/>
                 </Menu>
 
             </div>

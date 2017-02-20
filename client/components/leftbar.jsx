@@ -19,6 +19,7 @@ class Leftbar extends React.Component {
                     <MenuItem primaryText="Home"/>
                     <MenuItem primaryText="About us"/>
                     <MenuItem primaryText="Contact us"/>
+                    <MenuItem primaryText="Help"/>
                 </Menu>
 
             </div>
